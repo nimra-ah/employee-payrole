@@ -1,0 +1,1 @@
+This project is a simple employee management system that allows you to input, process, and display basic employee information. Additionally, the system calculates overtime hours, bonus, and total pay for employees.
